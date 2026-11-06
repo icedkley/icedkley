@@ -43,7 +43,6 @@ I focus on three things that actually move the needle for a local service busine
 | [netlix-clone](https://github.com/icedkley/netlix-clone) | A Netflix-style streaming UI clone with responsive layout. | `JavaScript` |
 | [K-movies](https://github.com/icedkley/K-movies) | A Korean movie browsing app with search and detail views. | `JavaScript` |
 
-> 💡 **Tip:** These repos show your front-end fundamentals. To back up the landing-page positioning above, pin a **demo landing page for a fictional trade business** (e.g., "Rapid Rooter Plumbing") — a single `index.html` with click-to-call, reviews, and a form. It's a small repo that instantly proves the claim.
 
 ---
 
